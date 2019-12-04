@@ -1,4 +1,10 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I am great !!
+
 This change came from github !!
 Changed master !!
+
+
+Alice is awesome!!
+Alice_great changed !
+
